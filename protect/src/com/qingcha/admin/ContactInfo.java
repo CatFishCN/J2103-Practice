@@ -5,7 +5,7 @@ import com.qingcha.util.DateUtil;
 import java.util.Date;
 
 public class ContactInfo {
-    // 编号 你在干神魔
+    // 编号
     private String id;
 
     // 姓名
